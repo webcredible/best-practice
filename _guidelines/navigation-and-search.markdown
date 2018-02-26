@@ -11,11 +11,11 @@ There are many entry points to your website and it’s most likely that customer
 
 The homepage is a gateway page that can set a user’s first impressions of a website or brand, but it’s not the page that is going to meet their needs – on an ecommerce site, that’s typically the category and product pages where users will select and evaluate products. Design these pages first, and design for customer journeys that start with search results, and then drive traffic to tailored landing pages, specific products or category pages.
 
-![image alt text](/uploads/image_2.png)
+![](/uploads/image_2.png)
 
 Google Shopping drives traffic directly to product pages, unbundling the product selection process from ecommerce sites and bringing it into the search engine.
 
-![image alt text](image_3.png)
+![](/uploads/image_3.png)
 
 Airbnb’s default homepage, left, focusses on exploratory behaviour. The landing page, right, is promoted in search results for "Paris" and is aimed towards customers that have already decided on some criteria for an upcoming trip.
 
@@ -33,7 +33,7 @@ A recent trend on desktop sites it to hide global navigation, in much the same w
 
 Because ecommerce is a mature market, users expect familiar navigation and conventions when searching for products. It’s best to follow these conventions as then users can use their existing knowledge to browse your site, navigating with ease and confidence.
 
-![image alt text](image_4.png)
+![](/uploads/image_4.png)
 
 Abel & Cole, Amazon and Boots all have familiar headers incorporating links to categories, search inputs and prominent basket icons in the top right corner.
 
@@ -41,7 +41,7 @@ Abel & Cole, Amazon and Boots all have familiar headers incorporating links to c
 
 For sites with more than a few products, [users will turn to search when they know what they are looking for](http://boxesandarrows.com/four-modes-of-seeking-information-and-how-to-design-for-them/). Search should be visible across your site, integrated into your header or navigation design.
 
-![image alt text](image_5.png)
+![](/uploads/image_5.png)
 
 Boots include a search bar in their header, making it widely visible across the site
 
@@ -61,7 +61,7 @@ These criteria can then be used to not only inform the content of your website, 
 
 Some customers will know what they are after and for these customers they are likely to search. Other customers will browse using categorisation as a route into the product inventory. The best ecommerce sites make these feel like a consistent experience, making filtering and sorting options and the display of products consistent on both.
 
-![image alt text](image_6.png)
+![](/uploads/image_6.png)
 
 Browsing by category and searching are presented using the same interface on ASOS, allowing customers to filter and sort consistently across both
 
@@ -69,7 +69,7 @@ Browsing by category and searching are presented using the same interface on ASO
 
 In [a now famous study](https://hbr.org/2006/06/more-isnt-always-better), researchers found that a display offering only six types of jam, generated more sales than a display offering 24 varieties, even though the latter generated more interest. Customers want choice, but are often [paralysed by too much choice](https://www.fastcompany.com/3031364/why-having-too-many-choices-is-making-you-unhappy). It’s important to not overload your site with lots of calls to action, similar products or too many navigation links.
 
-.![image alt text](image_7.png)
+![](/uploads/image_7.png)
 
 When SSE originally started selling broadband, they wanted to offer a variety of products, based on research with their customers. After testing we found that three was the ideal amount of price points for customers to be able to choose the service level that suited them, whilst not being overwhelmed.
 
@@ -77,6 +77,6 @@ When SSE originally started selling broadband, they wanted to offer a variety of
 
 Customers need  to be able to compare items that are differentiated by levels of functionality or features, aimed at different prices points, so that they can choose based on their requirements. Comparison tables are a great way to make these feature by feature comparisons.
 
-![image alt text](image_8.png)
+![](/uploads/image_8.png)
 
 Comparison tables help users compare similar products or service tiers. In the above example, descriptive text guides customer through new terminology, explaining what features are important and why.
