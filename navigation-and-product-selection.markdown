@@ -12,7 +12,7 @@ There are many entry points to your website and it’s most likely that customer
 
 The homepage is a gateway page that can set a user’s first impressions of a website or brand, but it’s not the page that is going to meet their needs – on an ecommerce site, that’s typically the category and product pages where users will select and evaluate products. Design these pages first, and design for customer journeys that start with search results, and then drive traffic to tailored landing pages, specific products or category pages.
 
-![image alt text](image_2.png)
+![image alt text](/uploads/image_2.png)
 
 Google Shopping drives traffic directly to product pages, unbundling the product selection process from ecommerce sites and bringing it into the search engine.
 
