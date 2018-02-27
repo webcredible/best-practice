@@ -23,4 +23,9 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: guidelines
+  values:
+    layout: page
 permalink: pretty

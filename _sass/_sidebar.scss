@@ -1,0 +1,15 @@
+
+
+.sidebar {
+  padding: 10vh 30px 0;
+}
+
+.nav-list__item__link {
+  color: #384C60;
+  text-decoration: none;
+}
+
+.nav-list__item.is-active .nav-list__item__link {
+  color: #2F2D83;
+  font-weight: bold;
+}
