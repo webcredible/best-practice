@@ -1,24 +1,19 @@
 ---
 title: Introduction
+description: How to use these guidelines
+layout: page
 ---
 
-This document forms part of the Age Co rebrand package which includes Brand Guidelines, Accessibility and Cross Browser Guidelines and Digital design components (ask the supplier to check with Age Co for the full list)
-methodology that outlines the benefits of UX and why it should be implemented across e-commerce platform
-intended audience - new suppliers
-Set of minimum guidelines they must adhere to
-Will increase conversion and ultimately bring them more money
-aim to keep consistency across all Age Co and partner sites - consistent user journey, provide a seamless experience for customers and potential customers from one site to the next
-Provide clear set of top-level ux guidelines in order to improve overall e-commerce experience:
-support existing ecomm partners with a clear set of guidelines to ensure their experience is consistent with the age co website
-create a clear framework and set of principles for any new partners to follow when creating a partner site
-help users by creating a consistent experience when moving between age co and partnering sites
-Provide partners with a set of ‘opportunities’ that could benefit them should they adhere and implement the guideline recommendations
-provide partners with a clear understanding of the latest age co brand style and guidelines
+This document provides a set of best practice ecommerce guidelines for Age Co partners developing ecommerce websites. These guidelines support partners by:
 
-high level to allow easy quick read - but references are there for anyone who is interested in deeper research
+- Providing a clear set of guidelines to ensure their site integrates with the Age Co website, providing a consistent and seamless experience for customers
+- Ensuring that best practices within ecommerce are following to provide a familiar online shopping experience and increase revenue for partners
+- Identifying specific needs of Age Co’s audience and see that these needs are met across partner sites
 
-always includes examples
-ranked of highest priority
-understand it may not be possible to implement all these in one go, tho do recommend these should be at a minimum - don’t skip any
-guidelines are under the assumption that off-the-shelf product is being used. These off-the-shelf products will have some basic UX principles already built in - i.e. basket check out.
-If this is not the case, extra consultation can be provided on a case-by-case basis.
+This document forms part of the Age Co rebrand package which includes **Brand Guidelines**, **Accessibility and Cross Browser Guidelines** and a **Digital Component Library**.
+
+The guidelines in this document have been put together by user experience agency [Webcredible](https://www.webcredible.com), based on their experience in ecommerce, a long term partnership with Age UK and a range of research projects with Age UK’s audience.
+
+Each guideline within this document is supported by a rationale, with links to relevant research and further reading, examples, and the benefits of following the guideline. The guidelines have been selected for their wide applicability and their measurable impact. It is assumed that partner sites will be using standard ecommerce systems, or have experience of building ecommerce sites, and so this document does not go into detail about the specific requirements of templates.
+
+Ecommerce is a fast-developing area, and these guidelines will be iterated and improved as the best practices of the industry change.
