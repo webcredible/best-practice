@@ -19,23 +19,30 @@ The screen sizes of mobile devices and tablets vary greatly, and we still see th
 
 Nike’s website adapts to different screen sizes, using the same front-end code.
 
+#### Benefits
+
+- Reach a wider audience
+- Improve conversion rates on mobile
+- Less development overhead by working with one codebase
+
 ### Design for mobile first
 
 #### Comment
 
-Due to constraints of mobile devices, in particular screen real estate, the most effective strategy is to design for mobile first, and then adapt your designs as necessary to larger viewports. This has three key benefits:
-
-1. **It helps to focus** on the most important content and functionality and the order in which they are presented to the customer
-
-2. **It’s easier to scale up**, rather than down, adding more to the page on larger screen sizes
-
-3. **It future-proofs your design** by designing for the biggest growth area in consumption and the area when most ecommerce sites are weakest
+Due to constraints of mobile devices, in particular screen real estate, the most effective strategy is to design for mobile first, and then adapt your designs as necessary to larger viewports.
 
 #### Examples
 
 ![image alt text](/uploads/image_1.png)
 
 At [Webcredible](https://webcredible.com), we start by sketching on mobile first, and then adapt to desktop layouts later in the design process.
+
+#### Benefits
+
+- **It helps to focus** on the most important content and functionality and the order in which they are presented to the customer
+- **It’s easier to scale up**, rather than down, adding more to the page on larger screen sizes
+- **It future-proofs your design** by designing for the biggest growth area in consumption and the area when most ecommerce sites are weakest
+
 
 ### Don’t expect mobile users to be "on the move"
 

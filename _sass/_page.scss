@@ -36,6 +36,15 @@
   counter-reset: h2counter 2 h3counter;
 }
 
+.post--guideline h1:before {
+  content: counter(h2counter) "." counter(h3counter) "\0000a0\0000a0";
+  display: inline-block;
+  font-weight: normal;
+  width: 2em;
+  margin-left: -2em;
+  opacity: .5;
+}
+
 .post--guideline h3:before {
   content: counter(h2counter) "." counter(h3counter) "\0000a0\0000a0";
   counter-increment: h3counter;
@@ -43,4 +52,5 @@
   font-weight: normal;
   width: 2em;
   margin-left: -2em;
+  opacity: .5;
 }
