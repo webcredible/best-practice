@@ -1,6 +1,6 @@
 ---
 title: Navigation and search
-description: Helping your customers to the right product for them will reduce bounce rates.
+description: Helping your customers to the right product for them will reduce bounce rates
 date: 2018-02-26 16:27:00 Z
 position: 2
 ---
