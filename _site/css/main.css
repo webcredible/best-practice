@@ -121,7 +121,7 @@ img { max-width: 100%; border: 8px solid #F1F2F4; }
 
 .nav-list__item.is-active .nav-list__item__link { color: #2F2D83; font-weight: bold; }
 
-body { font-family: "Proxima Soft", sans-serif; font-size: 18px; line-height: 1.4; counter-reset: h2counter 2 h3counter; color: #555; }
+body { font-family: "Proxima Soft", "Proxima Nova Soft", "Proxima Nova", sans-serif; font-size: 18px; line-height: 1.4; counter-reset: h2counter 2 h3counter; color: #555; }
 
 p, ul, ol { margin: 0 0 1.4em; }
 
