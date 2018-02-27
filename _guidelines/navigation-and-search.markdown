@@ -34,9 +34,8 @@ Airbnb’s default homepage, left, focusses on exploratory behaviour. The landin
 
 Global navigation helps customers in two key ways:
 
-* It helps them to easily **switch between top-level categories**
-
-* It allows them to **get a sense of what what is available** on the website
+- It helps them to easily **switch between top-level categories**
+- It allows them to **get a sense of what what is available** on the website
 
 A recent trend on desktop sites it to hide global navigation, in much the same way it is typically hidden on mobile. This is not a good pattern because despite there being ample screen estate to do so, it fails to tell the customer what is available on the site.
 
