@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+{% if page.position %}
+<style>
+body {
+  counter-reset: h2counter {{page.position}} h3counter;
+}
+</style>
+{% endif %}
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
+
+
+<script>
+var headings = document.getElementsByTagName('div');
+for (var i = headings.length - 1; i >= 0; i--)
+{
+  // Set an ID to link to
+  var newId = headings[i].textContent.toLowerCase().replace(/%[0-9A-F]{2}/gi,'');
+  headings[i].id = newId;
+}
+</script>

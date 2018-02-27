@@ -27,5 +27,5 @@ defaults:
     path: ''
     type: guidelines
   values:
-    layout: page
+    layout: guideline
 permalink: pretty
