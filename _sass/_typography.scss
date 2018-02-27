@@ -10,7 +10,7 @@ p, ul, ol {
 }
 
 h1 {
-  font-size: 52 px;
+  font-size: 48px;
   color: #E57000;
   font-weight: bold;
 }
@@ -27,13 +27,17 @@ h3:first-of-type {
   margin-top: 1em;
 }
 
-h6 {
+h6, h4 {
   font-size: 18px;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #8C949B;
   margin: 1em 0 .5em;
+}
+
+h4 {
+  margin-bottom: 1em;
 }
 
 .subtitle {

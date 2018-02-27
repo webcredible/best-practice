@@ -40,8 +40,9 @@
   content: counter(h2counter) "." counter(h3counter) "\0000a0\0000a0";
   display: inline-block;
   font-weight: normal;
-  width: 2em;
-  margin-left: -2em;
+  font-size: 32px;
+  width: 1.8em;
+  margin-left: -1.8em;
   opacity: .5;
 }
 
@@ -50,7 +51,7 @@
   counter-increment: h3counter;
   display: inline-block;
   font-weight: normal;
-  width: 2em;
-  margin-left: -2em;
+  width: 1.8em;
+  margin-left: -1.8em;
   opacity: .5;
 }
