@@ -1,16 +1,13 @@
 
 <div class="sidebar">
 
-
+  <img class="logo" src="/uploads/logo.png">
 
   <div class="nav-list">
-    <div class="nav-list__item">
-      <a class="nav-list__item__link" href="/">Home</a>
-    </div>
   {% for my_page in site.pages %}
     {% if my_page.title %}
     <div class="nav-list__item{% if page.url == my_page.url %} is-active{% endif %}">
-      <a class="nav-list__item__link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+      <a class="nav-list__item__link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.link_name | default: my_page.title }}</a>
     </div>
     {% endif %}
   {% endfor %}
