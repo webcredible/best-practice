@@ -1,9 +1,18 @@
-img {
-  max-width: 100%;
-  border: 8px solid #F1F2F4;
+.post {
+  img {
+    max-width: 100%;
+    border: 8px solid #F1F2F4;
+  }
 }
 
 .post {
+  width: 50vw;
   max-width: 740px;
   margin: 10vh auto;
+}
+
+.post--guideline .post__content {
+  p, ul, ol {
+    margin-left: 1em;
+  }  
 }
