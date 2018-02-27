@@ -24,14 +24,3 @@ body {
   </div>
 
 </article>
-
-
-<script>
-var headings = document.getElementsByTagName('div');
-for (var i = headings.length - 1; i >= 0; i--)
-{
-  // Set an ID to link to
-  var newId = headings[i].textContent.toLowerCase().replace(/%[0-9A-F]{2}/gi,'');
-  headings[i].id = newId;
-}
-</script>

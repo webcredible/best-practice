@@ -2,7 +2,6 @@ body {
   font-family: "Proxima Soft", "Proxima Nova Soft", "Proxima Nova", sans-serif;
   font-size: 18px;
   line-height: 1.4;
-  counter-reset: h2counter 2 h3counter;
   color: #555;
 }
 
@@ -26,15 +25,6 @@ h3 {
 
 h3:first-of-type {
   margin-top: 1em;
-}
-
-h3:before {
-  content: counter(h2counter) "." counter(h3counter) "\0000a0\0000a0";
-  counter-increment: h3counter;
-  display: inline-block;
-  font-weight: normal;
-  width: 2em;
-  margin-left: -2em;
 }
 
 h6 {

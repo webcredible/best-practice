@@ -1,0 +1,15 @@
+{% if page.links %}
+
+  <div class="links">
+
+    <h3>Downloads and links</h3>
+
+    <div class="links__list">
+    {% for link in page.links %}
+      <div class="links__link">{{link.label}}</div>
+    {% endfor %}
+    </div>
+
+  </div>
+
+{% endif %}

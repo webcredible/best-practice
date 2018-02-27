@@ -14,5 +14,33 @@
 .post--guideline .post__content {
   p, ul, ol {
     margin-left: 1em;
-  }  
+  }
+}
+
+.links__list {
+  margin: 1em 0;
+}
+
+.links__link {
+  padding: 20px 20px;
+  border: 1px solid rgba(0, 0, 0, .1);
+  border-radius: 4px;
+  box-shadow: 1px 0 3px rgba(0, 0, 0, .05);
+}
+
+.links__link + .links__link {
+  margin-top: 20px;
+}
+
+.post--guideline body {
+  counter-reset: h2counter 2 h3counter;
+}
+
+.post--guideline h3:before {
+  content: counter(h2counter) "." counter(h3counter) "\0000a0\0000a0";
+  counter-increment: h3counter;
+  display: inline-block;
+  font-weight: normal;
+  width: 2em;
+  margin-left: -2em;
 }
