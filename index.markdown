@@ -1,7 +1,7 @@
 ---
 title: Age Co Partner Guidelines
-link_name: Home
 position: 1
+link_name: Home
 links:
 - label: Brand Guidelines
   type: PDF
