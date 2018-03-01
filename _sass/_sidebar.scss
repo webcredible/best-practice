@@ -13,14 +13,26 @@
 
 .nav-list__item {
   margin-top: 5px;
+  color: #384C60;
 }
 
 .nav-list__item__link {
-  color: #384C60;
+  color: inherit;
   text-decoration: none;
 }
 
-.nav-list__item.is-active .nav-list__item__link {
+.nav-list__item.is-active {
   color: #2F2D83;
   font-weight: bold;
+}
+
+.nav-list--guidelines {
+  counter-reset: guidelinesNav;
+}
+
+.nav-list--guidelines .nav-list__item:before {
+  counter-increment: guidelinesNav;
+  content: counter(guidelinesNav) ". ";
+  display: inline-block;
+  width: 1em;
 }
