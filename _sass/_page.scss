@@ -38,7 +38,7 @@
 }
 
 .post--guideline h1:before {
-  content: counter(h2counter) "." counter(h3counter) "\0000a0\0000a0";
+  content: counter(h2counter) "." counter(h3counter);
   display: inline-block;
   font-weight: normal;
   font-size: 32px;
@@ -48,11 +48,22 @@
 }
 
 .post--guideline h3:before {
-  content: counter(h2counter) "." counter(h3counter) "\0000a0\0000a0";
   counter-increment: h3counter;
+  content: counter(h2counter) "." counter(h3counter);
   display: inline-block;
   font-weight: normal;
   width: 1.8em;
   margin-left: -1.8em;
   opacity: .5;
+}
+
+.toc {
+  background: #F6F6F6;
+  padding: 20px;
+}
+
+.toc ul {
+  margin: 0;
+  list-style: none;
+  padding-left: 0;
 }

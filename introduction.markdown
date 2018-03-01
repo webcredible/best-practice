@@ -2,6 +2,7 @@
 title: Introduction
 description: How to use these guidelines
 layout: page
+position: 2
 ---
 
 This document provides a set of best practice ecommerce guidelines for Age Co partners developing ecommerce websites. These guidelines support partners by:
