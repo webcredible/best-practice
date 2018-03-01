@@ -1,6 +1,5 @@
 ---
 title: Designing for mobile
-date: 2018-02-26 15:09:00 Z
 position: 1
 description: Customers expect to be able to shop using a range of devices – make sure
   your website adapts to all screen sizes

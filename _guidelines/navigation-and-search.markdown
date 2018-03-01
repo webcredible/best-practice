@@ -1,6 +1,5 @@
 ---
 title: Navigation and search
-date: 2018-02-26 16:27:00 Z
 position: 2
 description: Helping your customers to the right product for them will reduce bounce
   rates
