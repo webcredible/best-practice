@@ -3,10 +3,11 @@
     max-width: 100%;
     border: 8px solid #F1F2F4;
     margin-bottom: -1em;
+    page-break-inside: avoid;
   }
 }
 
-.post {
+.post--screen {
   width: 50vw;
   max-width: 740px;
   margin: 10vh auto;
@@ -15,6 +16,30 @@
 .post--guideline .post__content {
   p, ul, ol {
     margin-left: 1em;
+  }
+}
+
+@media screen {
+  .print {
+    background: #eee;
+  }
+
+  .post--print {
+    margin: 30px;
+    background: white;
+    padding: 120px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .1)
+  }
+}
+
+@media print {
+  .post--print {
+    page-break-before: always;
+  }
+
+  @page {
+    size: A4 portrait;
+    margin: 50pt;
   }
 }
 
@@ -34,11 +59,11 @@
 }
 
 .post--guideline body {
-  counter-reset: h2counter 2 h3counter;
+  counter-reset: sectionCounter 2 guidelineCounter;
 }
 
 .post--guideline h1:before {
-  content: counter(h2counter) "." counter(h3counter);
+  content: counter(sectionCounter) "." counter(guidelineCounter);
   display: inline-block;
   font-weight: normal;
   font-size: 32px;
@@ -48,18 +73,22 @@
 }
 
 .post--guideline h3:before {
-  counter-increment: h3counter;
-  content: counter(h2counter) "." counter(h3counter);
-  display: inline-block;
-  font-weight: normal;
-  width: 1.8em;
-  margin-left: -1.8em;
-  opacity: .5;
+  counter-increment: guidelineCounter;
+  content: counter(sectionCounter) "." counter(guidelineCounter) " ";
+
+  @media screen {
+    width: 1.8em;
+    display: inline-block;
+    font-weight: normal;
+    margin-left: -1.8em;
+    opacity: .5;
+  }
 }
 
 .toc {
   background: #F6F6F6;
   padding: 20px;
+  border-left: 2px solid #BEBEBE;
 }
 
 .toc ul {
@@ -70,4 +99,29 @@
 
 .toc ul ul {
   padding-left: 2em;
+  margin-top: .5em;
+  margin-bottom: 1em;
+}
+
+.toc li:before {
+  display: inline-block;
+  width: 2em;
+  color: #8C949B;
+  content: counter(sectionCounter) "." counter(guidelineCounter) " ";
+}
+
+.toc--complete {
+  & > ul > li {
+    counter-increment: sectionCounter;
+  }
+
+  & > ul > ul > li {
+    counter-increment: guidelineCounter;
+  }
+}
+
+.toc--section {
+  & > ul > li {
+    counter-increment: guidelineCounter;
+  }
 }

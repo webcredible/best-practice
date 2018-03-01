@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="print">
+
+    {% for section in site.guidelines %}
+      <article class="post post--print post--guideline">
+
+        <header class="post-header">
+          <h2 class="post-title">{{ section.title }}</h2>
+          {% if section.description %}
+            <div class="subtitle">{{section.description}}</div>
+          {% endif %}
+        </header>
+
+        <div class="post__content">
+          {{ section.content }}
+        </div>
+
+      </article>
+    {% endfor %}
+
+  </body>
+
+</html>
