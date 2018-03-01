@@ -4,22 +4,23 @@ layout: default
 
 {% if page.position %}
 <style>
-body {
-  counter-reset: h2counter {{page.position}} h3counter;
+.toc,
+.post__content {
+  counter-reset: sectionCounter {{page.position}} guidelineCounter;
 }
 </style>
 {% endif %}
 
-<article class="post post--guideline">
+<article class="post post--screen post--guideline">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h2 class="post-title">{{ page.title }}</h2>
     {% if page.description %}
       <div class="subtitle">{{page.description}}</div>
     {% endif %}
   </header>
 
-  <div class="toc toc--small">
+  <div class="toc toc--section">
   {% include toc.html html=content h_max=3 %}
   </div>
 
