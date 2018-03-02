@@ -120,13 +120,12 @@ promotional](https://www.nngroup.com/articles/fancy-formatting-looks-like-an-ad/
 
 #### Examples
 
-#### ![Age Co calls to action, using buttons](/uploads/image51.png)
+![Age Co calls to action, using buttons](/uploads/image51.png)
 
 Buttons have been designed with high contrast in the Age Co rebrand, so
 as to stand out as actions rather than recede into the background.
 
-![Example of Age Co callout
-modules](/uploads/image46.png)
+![Example of Age Co callout modules](/uploads/image46.png)
 
 Important information about installation is included in a blue call-out
 module on Age Co's stairlift page. We found in user testing that
