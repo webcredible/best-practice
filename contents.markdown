@@ -1,7 +1,5 @@
 ---
-title: Table of contents
+title: Checklist
 position: 3
-description: All the guidelines
 layout: contents
 ---
-
