@@ -6,7 +6,13 @@
 
     <div class="links__list">
     {% for link in page.links %}
-      <div class="links__link">{{link.label}}</div>
+      <div class="links__link">
+      {% if link.link %}
+        <a href="{{link.link}}">{{link.label}}</a>
+      {% else %}
+        {{link.label}}
+      {% endif %}
+      </div>
     {% endfor %}
     </div>
 
