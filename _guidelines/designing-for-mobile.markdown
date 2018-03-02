@@ -1,7 +1,8 @@
 ---
 title: Designing for mobile
-description: Customers expect to be able to shop using a range of devices -- make sure your website adapts to all screen sizes.
 position: 2
+description: Customers expect to be able to shop using a range of devices -- make
+  sure your website adapts to all screen sizes.
 ---
 
 ### Use responsive design to cater for all screen sizes

@@ -1,7 +1,8 @@
 ---
 title: General principles
-description: The core of a good user experience is understanding and meeting your customers' needs.
 position: 1
+description: The core of a good user experience is understanding and meeting your
+  customers' needs.
 ---
 
 ### Design for your users and their needs

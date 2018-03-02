@@ -1,7 +1,8 @@
 ---
 title: Checkout & payment
-description: Make your purchase funnel as quick and simple as possible to ensure high conversion rates.
 position: 6
+description: Make your purchase funnel as quick and simple as possible to ensure high
+  conversion rates.
 ---
 
 ### Do not require users to register during checkout

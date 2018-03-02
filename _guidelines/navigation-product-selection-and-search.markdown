@@ -1,7 +1,8 @@
 ---
 title: Navigation, product selection & search
-description: Helping your customers to the right product for them will reduce bounce rates.
 position: 3
+description: Helping your customers to the right product for them will reduce bounce
+  rates.
 ---
 
 ### The homepage is not your most important page

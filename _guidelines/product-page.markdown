@@ -1,7 +1,7 @@
 ---
 title: Product page
-description: A high performing product page is the key to successful conversion.
 position: 4
+description: A high performing product page is the key to successful conversion.
 ---
 
 ### Let customers inspect the product through strong product imagery

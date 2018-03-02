@@ -1,9 +1,10 @@
 ---
 title: Layout & design
-description: Customers will quickly judge your ecommerce site based on the layout and design. Provide an experience consistent with your brand values to make a good first impression.
 position: 8
+description: Customers will quickly judge your ecommerce site based on the layout
+  and design. Provide an experience consistent with your brand values to make a good
+  first impression.
 ---
-
 
 ### Make a good first impression
 
