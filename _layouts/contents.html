@@ -19,7 +19,7 @@ layout: default
     <ul>
     {% assign guidelines = site.guidelines | sort: 'position' %}
     {% for my_page in guidelines %}
-      <li style="counter-reset: sectionCounter {{my_page.position}}-1 guidelineCounter;">
+      <li style="counter-reset: sectionCounter {{my_page.position | minus:1}} guidelineCounter;">
         <a href="{{my_page.url}}">{{my_page.title}}</a>
       </li>
         {% include toc.html html=my_page.content h_max=3 prepend=my_page.url %}
