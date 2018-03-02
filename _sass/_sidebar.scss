@@ -27,12 +27,17 @@
 }
 
 .nav-list--guidelines {
-  counter-reset: guidelinesNav;
-}
 
-.nav-list--guidelines .nav-list__item:before {
-  counter-increment: guidelinesNav;
-  content: counter(guidelinesNav) ". ";
-  display: inline-block;
-  width: 1em;
+  & .nav-list__item__link {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  & .nav-list__item__link__ref {
+    width: 1.5em;
+  }
+
+  & .nav-list__item__link__label {
+    flex: 1;
+  }
 }
