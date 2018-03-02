@@ -113,6 +113,7 @@
 .toc--complete {
   & > ul > li {
     counter-increment: sectionCounter;
+    font-weight: bold;
   }
 
   & > ul > ul > li {
