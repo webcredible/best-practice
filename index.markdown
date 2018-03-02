@@ -7,7 +7,8 @@ links:
   type: PDF
 - label: Accessibility and Cross Browser Guidelines
   type: PDF
-- label: Digital Component Library
+- label: Component Library Frontend Styleguide
+  link: http://styleguide.agedev.org.uk/ageuk/AgeCo/html/index.html
   type: URL
 ---
 
