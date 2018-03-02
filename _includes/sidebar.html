@@ -17,7 +17,7 @@
   <h6>Guidelines</h6>
 
   <div class="nav-list nav-list--guidelines">
-
+  {% assign guidelines = site.guidelines | sort: 'position' %}
   {% for my_page in guidelines %}
     {% if my_page.title %}
     <div
