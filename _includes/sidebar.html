@@ -20,7 +20,10 @@
   {% assign guidelines = site.guidelines | sort: 'position' %}
   {% for my_page in guidelines %}
     {% if my_page.title %}
-    <div class="nav-list__item{% if page.url == my_page.url %} is-active{% endif %}">
+    <div
+      class="nav-list__item{% if page.url == my_page.url %} is-active{% endif %}"
+      style="counter-reset: guidelinesNav {{my_page.position | minus:1}}"
+      >
       <a class="nav-list__item__link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
     </div>
     {% endif %}
