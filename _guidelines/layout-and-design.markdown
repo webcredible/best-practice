@@ -6,6 +6,68 @@ description: Customers will quickly judge your ecommerce site based on the layou
   first impression.
 ---
 
+### Don't overload the customer with too many calls to action
+
+#### Comment
+
+Prioritise the the one key thing you want the user to do at each step of
+the journey. On product selection pages, prioritise finding a product,
+on product pages prioritise the purchase call to action.
+
+#### Examples
+
+![Use of calls to actions on
+Theraposture](/uploads/image65.jpg)
+
+Before the redesign, Theraposture had too many call-to-actions at the
+top of their home page. Analysing their google analytics, we found
+evidence that the choice of CTAs were diluting traffic away from
+specific product journeys. The redesign allowed us to provide a clear
+path for users, and improve overall conversion (can we get data source?)
+
+![Examples of responsively design hero banners in Age Co
+templates](/uploads/image71.jpg)
+
+The Age Co redesign includes multiple hero banners for different
+use-cases across all screen-sizes. This includes one with 1 CTA to
+direct users down a clear path of your choice.
+
+#### Benefits
+
+-   Drive conversion primary call-to-action
+
+### Don't make important calls-to-action look like an advert
+
+#### Comment
+
+Customers are [blind to
+banners](https://www.nngroup.com/articles/banner-blindness-old-and-new-findings/),
+and will ignore anything that looks like a promotion or advert. It's
+therefore important that key page components, such as calls to action or
+important product tips, are not styled in such a way [as to appear
+promotional](https://www.nngroup.com/articles/fancy-formatting-looks-like-an-ad/).
+
+#### Examples
+
+![Age Co calls to action, using buttons](/uploads/image51.png)
+
+Buttons have been designed with high contrast in the Age Co rebrand, so
+as to stand out as actions rather than recede into the background.
+
+![Example of Age Co callout modules](/uploads/image46.png)
+
+Important information about installation is included in a blue call-out
+module on Age Co's stairlift page. We found in user testing that
+potential customers read information in these boxes because they assumed
+it was real content, whereas content in banner format was missed due to
+banner blindness.
+
+#### Benefits
+
+-   Improve conversion rates for calls-to-action
+-   Increase trust in website
+
+
 ### Make a good first impression
 
 #### Comment
@@ -38,36 +100,6 @@ away.
 
 -   Reduce bounce rates
 -   Improve brand reputation
-
-### Don't overload the customer with too many calls to action
-
-#### Comment
-
-Prioritise the the one key thing you want the user to do at each step of
-the journey. On product selection pages, prioritise finding a product,
-on product pages prioritise the purchase call to action.
-
-#### Examples
-
-![Use of calls to actions on
-Theraposture](/uploads/image65.jpg)
-
-Before the redesign, Theraposture had too many call-to-actions at the
-top of their home page. Analysing their google analytics, we found
-evidence that the choice of CTAs were diluting traffic away from
-specific product journeys. The redesign allowed us to provide a clear
-path for users, and improve overall conversion (can we get data source?)
-
-![Examples of responsively design hero banners in Age Co
-templates](/uploads/image71.jpg)
-
-The Age Co redesign includes multiple hero banners for different
-use-cases across all screen-sizes. This includes one with 1 CTA to
-direct users down a clear path of your choice.
-
-#### Benefits
-
--   Drive conversion primary call-to-action
 
 ### Users scroll, but more so if it's clear there is further content
 
@@ -106,34 +138,3 @@ These long, information-rich product pages are designed for scrolling.
 - Meet the information needs of a wide range of users
 - Explain more complicated products without impacting above-the-fold content
 - Improve conversion
-
-### Don't make important calls-to-action look like an advert
-
-#### Comment
-
-Customers are [blind to
-banners](https://www.nngroup.com/articles/banner-blindness-old-and-new-findings/),
-and will ignore anything that looks like a promotion or advert. It's
-therefore important that key page components, such as calls to action or
-important product tips, are not styled in such a way [as to appear
-promotional](https://www.nngroup.com/articles/fancy-formatting-looks-like-an-ad/).
-
-#### Examples
-
-![Age Co calls to action, using buttons](/uploads/image51.png)
-
-Buttons have been designed with high contrast in the Age Co rebrand, so
-as to stand out as actions rather than recede into the background.
-
-![Example of Age Co callout modules](/uploads/image46.png)
-
-Important information about installation is included in a blue call-out
-module on Age Co's stairlift page. We found in user testing that
-potential customers read information in these boxes because they assumed
-it was real content, whereas content in banner format was missed due to
-banner blindness.
-
-#### Benefits
-
--   Improve conversion rates for calls-to-action
--   Increase trust in website

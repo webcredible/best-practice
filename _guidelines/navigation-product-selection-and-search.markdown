@@ -5,45 +5,32 @@ description: Helping your customers to the right product for them will reduce bo
   rates.
 ---
 
-### The homepage is not your most important page
+### Include visible search across your site
 
 #### Comment
 
-There are many entry points to your website and it's most likely that customers
-[will not start their journey from your
-homepage](http://uxmyths.com/post/717779908/myth-the-homepage-is-your-most-important-page).
-Search engine results, Google Shopping, and promoted products on social media
-all drive customers to product pages, often bypassing the homepage entirely.
-
-The homepage is a gateway page that can set a user's first impressions of a
-website or brand, but it's not the page that is going to meet their needs -- on
-an ecommerce site, it's typically the category and product pages where users
-will select and evaluate products. Design these pages first, and design for
-customer journeys that start with search results, and then drive traffic to
-tailored landing pages, specific products or category pages.
+For sites with more than a few products, [users will turn to search
+when they know what they are looking
+for](http://boxesandarrows.com/four-modes-of-seeking-information-and-how-to-design-for-them/).
+Search should be visible across your site, integrated into your header
+or navigation design.
 
 #### Examples
 
-[![Screenshot of Google Shopping
-interface](/uploads/image45.png)](https://www.google.co.uk/search?q=adjustable+beds&tbm=shop)
+[![Boot\'s search bar](/uploads/image72.png)](https://www.boots.com/)
 
-Google Shopping drives traffic directly to product pages, unbundling the
-product selection process from ecommerce sites and bringing it into the
-search engine.
+Boots include a search bar in their header, making it widely visible
+across the site
 
-![Screenshots of Airbnb\'s homepage and a landing
-page](/uploads/image49.png)
+![Age Co\'s header](/uploads/image2.png)
 
-Airbnb's default homepage, left, focusses on exploratory behaviour. The
-landing page, right, is promoted in search results for "Paris" and is
-aimed towards customers that have already decided on some criteria for
-an upcoming trip.
+For suppliers who have search capability, the Age Co header has been
+designed to support a global search.
 
 #### Benefits
 
--   Improves conversion
 -   Users will find information most valuable to them more efficiently
--   Website becomes clearer, easier and faster to use
+-   Ensures product findability amongst partner sites is equal for users
 
 ### Provide consistent visible global navigation
 
@@ -96,29 +83,42 @@ right corner.
 -   Users will find information most valuable to them more efficiently
 -   Improves confidence and brand trust
 
-### Include visible search across your site
+### The homepage is not your most important page
 
 #### Comment
 
-For sites with more than a few products, [users will turn to search
-when they know what they are looking
-for](http://boxesandarrows.com/four-modes-of-seeking-information-and-how-to-design-for-them/).
-Search should be visible across your site, integrated into your header
-or navigation design.
+There are many entry points to your website and it's most likely that customers
+[will not start their journey from your
+homepage](http://uxmyths.com/post/717779908/myth-the-homepage-is-your-most-important-page).
+Search engine results, Google Shopping, and promoted products on social media
+all drive customers to product pages, often bypassing the homepage entirely.
+
+The homepage is a gateway page that can set a user's first impressions of a
+website or brand, but it's not the page that is going to meet their needs -- on
+an ecommerce site, it's typically the category and product pages where users
+will select and evaluate products. Design these pages first, and design for
+customer journeys that start with search results, and then drive traffic to
+tailored landing pages, specific products or category pages.
 
 #### Examples
 
-[![Boot\'s search bar](/uploads/image72.png)](https://www.boots.com/)
+[![Screenshot of Google Shopping
+interface](/uploads/image45.png)](https://www.google.co.uk/search?q=adjustable+beds&tbm=shop)
 
-Boots include a search bar in their header, making it widely visible
-across the site
+Google Shopping drives traffic directly to product pages, unbundling the
+product selection process from ecommerce sites and bringing it into the
+search engine.
 
-![Age Co\'s header](/uploads/image2.png)
+![Screenshots of Airbnb\'s homepage and a landing
+page](/uploads/image49.png)
 
-For suppliers who have search capability, the Age Co header has been
-designed to support a global search.
+Airbnb's default homepage, left, focusses on exploratory behaviour. The
+landing page, right, is promoted in search results for "Paris" and is
+aimed towards customers that have already decided on some criteria for
+an upcoming trip.
 
 #### Benefits
 
+-   Improves conversion
 -   Users will find information most valuable to them more efficiently
--   Ensures product findability amongst partner sites is equal for users
+-   Website becomes clearer, easier and faster to use

@@ -5,7 +5,7 @@ description: Make your purchase funnel as quick and simple as possible to ensure
   conversion rates.
 ---
 
-### Do not require users to register during checkout
+### Do not require registration during checkout
 
 #### Comment
 
@@ -28,28 +28,6 @@ clients](https://articles.uie.com/three_hund_million_button/).
 -   Reduces effort the user has to go through in order to make a purchase
 -   Improves website and user performance
 -   Reduces bounce and exit rates at the checkout stage
-
-### Use analytics tools to measure the performance of your funnel
-
-#### Comment
-
-Use tools like Google Analytics and Adobe Analytics to [measure your
-funnel in
-detail](https://support.google.com/analytics/answer/6014872?hl=en).
-You should measure each step of the process, to see where customers get
-stuck.
-
-#### Examples
-
-[![Graphic showing Google Analytics funnel
-metrics](/uploads/image42.png)](https://support.google.com/analytics/answer/6014872?hl=en)
-
-Google Analytics' Shopping Behavior Analysis report shows how many
-sessions abandoned the funnel at each stage.
-
-#### Benefits
-
--   Improves conversion
 
 ### Keep form fields to a minimum
 
@@ -168,6 +146,51 @@ customers deal with errors on forms:
 -   Reduces user frustration
 -   Improves quality of captured data
 
+### Use analytics tools to measure the performance of your funnel
+
+#### Comment
+
+Use tools like Google Analytics and Adobe Analytics to [measure your
+funnel in
+detail](https://support.google.com/analytics/answer/6014872?hl=en).
+You should measure each step of the process, to see where customers get
+stuck.
+
+#### Examples
+
+[![Graphic showing Google Analytics funnel
+metrics](/uploads/image42.png)](https://support.google.com/analytics/answer/6014872?hl=en)
+
+Google Analytics' Shopping Behavior Analysis report shows how many
+sessions abandoned the funnel at each stage.
+
+#### Benefits
+
+-   Improves conversion
+
+### Always tell the customer what will happen next
+
+#### Comment
+
+When the order is completed, make sure it's clear to the customer what
+will happen next.
+
+-   Send a confirmation email, and tell them you have done so
+-   Reconfirm their address and order details, and give them a way to recover if they have made a mistake (manage their orders, get in touch with support, etc)
+-   Outline on both the confirmation page and email what to expect in terms of delivery, or next steps
+
+#### Examples
+
+![REI confirmation
+email](/uploads/image53.png)
+
+REI's order confirmation email confirms their order details, makes it
+clear what will happen next and allows the customer to view their order.
+
+#### Benefits
+
+-   Builds trust in brand and website, and reaffirms customers have made the right purchase decision
+
 ### Make payment as simple as possible
 
 #### Comment
@@ -204,26 +227,3 @@ device.
 -   Reduces effort the user has to go through in order to make a purchase
 -   Reduces bounce and exit rates at the checkout stage
 -   Improves conversion
-
-### Always tell the customer what will happen next
-
-#### Comment
-
-When the order is completed, make sure it's clear to the customer what
-will happen next.
-
--   Send a confirmation email, and tell them you have done so
--   Reconfirm their address and order details, and give them a way to recover if they have made a mistake (manage their orders, get in touch with support, etc)
--   Outline on both the confirmation page and email what to expect in terms of delivery, or next steps
-
-#### Examples
-
-![REI confirmation
-email](/uploads/image53.png)
-
-REI's order confirmation email confirms their order details, makes it
-clear what will happen next and allows the customer to view their order.
-
-#### Benefits
-
--   Builds trust in brand and website, and reaffirms customers have made the right purchase decision

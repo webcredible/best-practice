@@ -35,6 +35,29 @@ front-end code.
 -   Caters to varying and ever-expanding screen sizes
 -   Future proofs website for ever increasing mobile and tablet use
 
+### Don't provide a limited experience on mobile
+
+#### Comment
+
+50% of users abandon mobile transactions [because they've had a poor
+experience](https://www.thinkwithgoogle.com/intl/en-gb/consumer-insights/consumer-behaviours-shaping-next-generation-mobile-experiences/).
+Due to the differing constraints, mobile experiences often need to be
+different from traditional desktop-based ones but they should still
+provide the same level of content and functionality.
+
+#### Examples
+
+![Desktop and mobile views of Age Co\'s
+website](/uploads/image48.jpg)
+
+Age Co's redesign was designed responsively, providing mobile users
+access to the exact same content as desktop users.
+
+#### Benefits
+
+-   Increases conversion
+-   Caters to users' expectations and all use-cases
+
 ### Design for mobile first
 
 #### Comment
@@ -79,26 +102,3 @@ found that 60% of smartphone usage takes place in the home.
 #### Benefits
 
 -   Sites are limited to 'on the move' tasks and functionality
-
-### Don't provide a limited experience on mobile
-
-#### Comment
-
-50% of users abandon mobile transactions [because they've had a poor
-experience](https://www.thinkwithgoogle.com/intl/en-gb/consumer-insights/consumer-behaviours-shaping-next-generation-mobile-experiences/).
-Due to the differing constraints, mobile experiences often need to be
-different from traditional desktop-based ones but they should still
-provide the same level of content and functionality.
-
-#### Examples
-
-![Desktop and mobile views of Age Co\'s
-website](/uploads/image48.jpg)
-
-Age Co's redesign was designed responsively, providing mobile users
-access to the exact same content as desktop users.
-
-#### Benefits
-
--   Increases conversion
--   Caters to users' expectations and all use-cases

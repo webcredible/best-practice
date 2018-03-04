@@ -3,6 +3,21 @@ title: Basket and product shortlisting
 position: 5
 ---
 
+### Link to the basket prominently and globally
+
+#### Comment
+
+Once users have added items to their basket, it's imperative that they
+be able to easily access that basket from across the site, and quickly
+see how many items are in their basket. Follow convention by linking to
+the basket from the top right of the header.
+
+#### Benefits
+
+-   Keeps users in control
+-   Builds trust in brand and website
+-   Websites become easier and faster to use
+
 ### Give adequate feedback to show an item has been added to the basket
 
 #### Comment
@@ -35,18 +50,3 @@ the basket addition.
 -   Builds trust
 -   Websites become easier and faster to use
 -   Improves conversion
-
-### Link to the basket prominently and globally
-
-#### Comment
-
-Once users have added items to their basket, it's imperative that they
-be able to easily access that basket from across the site, and quickly
-see how many items are in their basket. Follow convention by linking to
-the basket from the top right of the header.
-
-#### Benefits
-
--   Keeps users in contro
--   Builds trust in brand and website
--   Websites become easier and faster to use
