@@ -7,7 +7,7 @@ links:
   link: http://styleguide.agedev.org.uk/ageuk/AgeCo/html/index.html
 ---
 
-The Age Co range will help older people enjoy financial security and continue to live independently
+The AgeCo range will help older people enjoy financial security and continue to live independently
 
 Products and services offered under the Age Co name will include stairlifts and hearing aids, as well as insurance, legal services and funeral plans, all designed to give older people the freedom and confidence to live as they wish.
 
