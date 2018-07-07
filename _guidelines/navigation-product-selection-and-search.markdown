@@ -32,7 +32,7 @@ designed to support a global search.
 -   Users will find information most valuable to them more efficiently
 -   Ensures product findability amongst partner sites is equal for users
 
-### Provide consistent visible global navigation
+### Provide consistent visible global navigation [required]
 
 #### Comment
 

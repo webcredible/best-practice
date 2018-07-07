@@ -31,7 +31,7 @@ their goals, needs and behaviours:
 - Understanding your user's **needs** helps you to understand what information, functionality, and services are needed to achieve their goals and provide those accordingly
 - Understanding your user's **behaviour** allows you to identify how they use products and services and the context of their use --- different people use things in very different ways
 
-### Users will do the minimum they can to get a result
+### Users will do the minimum they can to get a result [required]
 
 #### Comment
 

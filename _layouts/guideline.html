@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% assign required = '[must have]' %}
+
 {% if page.position %}
 <style>
 .toc,
@@ -25,7 +27,7 @@ layout: default
   </div>
 
   <div class="post__content">
-    {{ content }}
+    {{ page.content | replace: "[required]", required }}
   </div>
 
 </article>

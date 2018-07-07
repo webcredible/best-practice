@@ -65,11 +65,13 @@
         {% endfor %}
 
         {% unless include.item_class == blank %}
-            {% capture listItemClass %}{:.{{ include.item_class | replace: '%level%', headerLevel }}}{% endcapture %}
+            {% capture listItemClass %}{:.{{ include.item_class | replace: '%level%', headerLevel }}{% if header contains "[required]" %} .toc__item-required{% endif%}}{% endcapture %}
         {% endunless %}
 
+        {% assign header = header | replace: "[required]", "" %}
+
         {% capture my_toc %}{{ my_toc }}
-{{ space }}{{ listModifier }} {{ listItemClass }} [{% if include.sanitize %}{{ header | strip_html }}{% else %}{{ header }}{% endif %}]({% if include.prepend %}{{include.prepend}}{% endif %}#{{ html_id }}){% endcapture %}
+{{ space }}{{ listModifier }} {{ listItemClass }} [{% if include.sanitize %}{{ header | strip_html}}{% else %}{{ header }}{% endif %}]({% if include.prepend %}{{include.prepend}}{% endif %}#{{ html_id }}){% endcapture %}
 
     {% endfor %}
 

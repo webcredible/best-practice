@@ -22,7 +22,7 @@ layout: default
       <li style="counter-reset: sectionCounter {{my_page.position | minus:1}} guidelineCounter;">
         <a href="{{my_page.url}}">{{my_page.title}}</a>
       </li>
-        {% include toc.html html=my_page.content h_max=3 prepend=my_page.url %}
+        {% include toc.html html=my_page.content h_max=3 prepend=my_page.url item_class="toc__item" %}
     {% endfor %}
     </ul>
   </div>
